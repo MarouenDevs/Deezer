@@ -1,0 +1,38 @@
+{
+  "name": "Deezer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "0.17.1",
+    "griddle-react": "^1.0.0",
+    "loaders.css": "^0.1.2",
+    "react": "^16.2.0",
+    "react-bootstrap": "0.32.1",
+    "react-bootstrap-table": "^4.3.1",
+    "react-data-grid": "^3.0.11",
+    "react-dom": "^16.2.0",
+    "react-form": "^3.3.2",
+    "react-infinite-scroll-component": "^4.0.2",
+    "react-loader-spinner": "^2.0.0",
+    "react-loaders": "^3.0.1",
+    "react-modal": "^3.3.2",
+    "react-redux": "^5.0.7",
+    "react-router": "4.2.0",
+    "react-router-dom": "4.2.2",
+    "react-scripts": "1.1.1",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-promise": "^0.5.3",
+    "redux-saga": "^0.16.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
